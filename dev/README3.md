@@ -1,4 +1,4 @@
-# vueNuxt reade1
+# vueNuxt
 
 > My lovely Nuxt.js project
 
